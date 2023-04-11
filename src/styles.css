@@ -1,4 +1,8 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+
 body {
+  font-family: 'Lato', sans-serif;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -9,6 +13,12 @@ body {
 .leaderboard-title {
   text-align: center;
   margin: 20px 0;
+}
+
+.maincontainer {
+  background-color: rgb(129 229 199);
+  border-radius: 10px;
+  padding: 30px;
 }
 
 .scoreboard-container {

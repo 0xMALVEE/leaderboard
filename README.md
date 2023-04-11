@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
  <img src="https://raw.githubusercontent.com/0xMALVEE/malvee-portfolio/main/logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Todo List</b></h3>
+  <h3><b>Leaderboard</b></h3>
   
 </div>
 
@@ -59,8 +59,8 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Todo List] <a name="about-project"></a>
-This is todo list list projects where you can add todos and remove todos and see them in a list.
+# 📖 [Leaderboard] <a name="about-project"></a>
+This is Leaderboard project where you can add scores and view them.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -101,8 +101,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 ```sh
-  npm intall -g live-server
-  live-server
+  npm install
 ```
 
 ### Setup
